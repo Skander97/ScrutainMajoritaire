@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrutainMajoritaire", "ScrutainMajoritaire\ScrutainMajoritaire.csproj", "{5B81BF47-ACF6-4756-B965-118DE0D93C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowScrutainMajoritaire", "SpecFlowScrutainMajoritaire\SpecFlowScrutainMajoritaire.csproj", "{1022B11D-739D-4DAA-8812-8F4BECB85975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B81BF47-ACF6-4756-B965-118DE0D93C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B81BF47-ACF6-4756-B965-118DE0D93C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B81BF47-ACF6-4756-B965-118DE0D93C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B81BF47-ACF6-4756-B965-118DE0D93C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1022B11D-739D-4DAA-8812-8F4BECB85975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1022B11D-739D-4DAA-8812-8F4BECB85975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1022B11D-739D-4DAA-8812-8F4BECB85975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1022B11D-739D-4DAA-8812-8F4BECB85975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1C093C-32A5-46A0-A900-B4F50003481A}
+	EndGlobalSection
+EndGlobal
